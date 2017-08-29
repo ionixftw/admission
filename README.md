@@ -6,6 +6,8 @@
 - [Signature 300x80](https://raw.githubusercontent.com/ionixftw/admission/master/signature-300x80.jpg)
 
 # Print
+
+
 |Institution|Admit Card|Bill Number|TxnID|Payment Type|
 |---|---|---|---|---|
 |Jahangirnagar University| [Jahangirnagar A-unit](https://raw.githubusercontent.com/ionixftw/admission/master/admit-card-a-unit-jahangirnagar.pdf)|620421|592429388|DBBL|
