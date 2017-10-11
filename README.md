@@ -12,4 +12,4 @@
 |---|---|---|---|---|---|
 |Jahangirnagar University| [Jahangirnagar A-unit](https://raw.githubusercontent.com/ionixftw/admission/master/admit-card-a-unit-jahangirnagar.pdf)|620599|592477033|DBBL|[Link](http://ju-admission.org)|
 |Jagangirnagar University| [Jahangirnagar H-unit](https://raw.githubusercontent.com/ionixftw/admission/master/admit-card-h-unit-jahangirnagar.pdf)|620421|592429388|DBBL|[Link](http://ju-admission.org)|
-|Rajshahi University|[Admitcard](https://github.com/ionixftw/admission/blob/master/RU-H24599.pdf)||
+|Rajshahi University|[Admitcard](https://raw.githubusercontent.com/ionixftw/admission/master/RU-H24599.pdf)||
